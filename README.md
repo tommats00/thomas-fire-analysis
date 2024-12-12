@@ -2,8 +2,6 @@
 
 Author: Tom Gibbens-Matsuyama (tommats00\@github.io)
 
--   This repository contains the rest of my analysis [github repository](https://github.com/tommats00/eds220-final)
-
 <img src="https://camo.githubusercontent.com/eb96c7e74feb1cad555d796e03bf71e25a4f38058ba619e1e4da5c6a8d86330d/68747470733a2f2f7777772e6c6965666663616272617365722e636f6d2f77702d636f6e74656e742f75706c6f6164732f77696c64666972652d736c6964652d3530302e6a7067" alt="Thomas Fire 2017">
 
 Image Credits: Carsten Shertzer \| Getty Images
@@ -38,7 +36,7 @@ This dataset is a collection of bands from the Landsat Collection 2 Level-2 coll
 
 The second dataset is a pre-processed geospatial data frame from [Data.gov](https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436). This dataset contains the Thomas Fire perimeter data.
 
-#### References & data sources
+## References & data sources
 
 AQI Data: Available from: (https://aqs.epa.gov/aqsweb/airdata/download_files.html#AQI.) Access date: October 23, 2024
 
